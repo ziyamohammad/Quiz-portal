@@ -97,8 +97,10 @@
   border:none;
    font-family: "Poppins", sans-serif;
    font-size:14px;
-   font-weight: 500;
+   font-weight: 400;
    padding-right:40px;
+   background-color: white;
+   color:#213547;
 }
 .overview{
    font-family: "Poppins", sans-serif;
@@ -136,6 +138,8 @@ option{
 .searchbar{
   width:40%;
    font-family: "Poppins", sans-serif;
+   background-color: white;
+   color:black;
    font-size:14px;
    font-weight: 400;
    border:1px solid rgba(0, 0, 0, 0.1);
